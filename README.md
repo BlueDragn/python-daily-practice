@@ -42,3 +42,29 @@ This repository will serve as:
 - My Python revision base
 - A personal reference of patterns I trust
 - Proof of consistent engineering practice
+
+## Daily Work Rotation (Practical & Sustainable)
+
+I rotate my daily practice to cover different engineering skills without burnout.
+Each session is short (30–40 minutes) and focused on **one thing only**.
+
+### Weekly Rotation Pattern
+
+| Day | Focus |
+|-----|------|
+| Monday | Core Python scripting (file I/O, functions, error handling) |
+| Tuesday | DSA (one small problem, clarity over tricks) |
+| Wednesday | Micro project (build or extend a small tool) |
+| Thursday | Refactoring (improve existing code without changing behavior) |
+| Friday | DSA or debugging practice |
+| Saturday | Micro project continuation or completion |
+| Sunday | Light review or rest (no pressure) |
+
+### Rules I Follow
+- One task per day
+- No rushing to finish
+- Prefer readable code over clever code
+- Small progress every day beats long gaps
+- This repo is for consistency, not perfection
+
+If a day is missed, I continue with the next day — no catching up.

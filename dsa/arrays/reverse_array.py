@@ -26,7 +26,6 @@ Better approaches:
 1. Use a while loop
 2. Use index-based iteration
 3. Use two-pointer swapping
-"""
 
 arr = [1,2,3,4,5,6]
 newArray = []
@@ -38,3 +37,17 @@ for i in arr:
     newArray.append(removed)
 print(newArray)
 print(arr)
+"""
+
+arr = [1,2,3,4,5,6]
+newArray = []
+while arr:
+    removed = arr.pop()
+    newArray.append(removed)
+print(newArray)
+print(arr)
+"""
+Lessons Learned:
+- Do not modify a list while iterating over it
+- Use while loops when removing elements
+"""
